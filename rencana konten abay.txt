@@ -6,3 +6,4 @@ RENCANA KONTEN abay
 - PHP Frameworks
 - Interview
 - Vlogs
+-ngadoin ajeng uwu
