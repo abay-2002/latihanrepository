@@ -1,0 +1,13 @@
+rencana konten abay 
+
+-Javascript
+  *ES6  
+  *Framework Javascript 
+    ^Angular
+    ^React
+-Struktur data dasar  
+-PHP Frameworks 
+  ^Laravel  
+-Interview
+-Vlogs
+-Python
