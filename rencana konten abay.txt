@@ -1,11 +1,13 @@
-RENCANA KONTEN abay
+rencana konten abay
 
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur data sruktur
+    ^ Vue
+    ^ React
+- Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
--ngadoin ajeng uwu
-
+- Python
